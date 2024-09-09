@@ -1,8 +1,6 @@
-# Interview Preparation
+## Interview Preparation
 
-## Roadmap to crack above 10 LPA job as Frontend Developer
-
----
+### Roadmap to crack above 10 LPA job as Frontend Developer
 
 - JavaScript Advanced Concepts
 
